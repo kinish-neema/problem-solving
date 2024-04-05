@@ -1,2 +1,3 @@
 # problem-solving
-questions from various plateform
+
+questions from various different plateform
