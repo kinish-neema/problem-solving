@@ -1,3 +1,3 @@
 # problem-solving
 
-questions from various different plateform
+Questions from various plateform
